@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(202, 253, 253) ;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.resim1{
+    width: 100%;
+    height: 480px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+.resim2{
+    width: 100%;
+    height: 480px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+.resim3{
+    width: 100%;
+    height: 480px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+.resim4{
+    width: 100%;
+    height: 480px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+.ul{
+    list-style-type: none;
+}
+h5{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 40px;
+}
+.madde{
+    list-style-type: disc;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:active{
+    color: red;
+}
